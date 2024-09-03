@@ -32,6 +32,7 @@ sprites obtenidas desde: [OpenGameArt.Org](https://opengameart.org/)
     <img src="capturas/cloud.webp" alt="Loading Error" style="width:150px;"/>
 
 2. **Tiles**: [Link](https://opengameart.org/content/free-platformer-game-tileset) autor: *pzUH*
+
     <img src="capturas/background.webp" alt="Loading Error" style="width:150px;"/>
     <img src="capturas/terrain_grid.webp" alt="Loading Error" style="width:150px;"/>
     <img src="capturas/obstacles_grid.webp" alt="Loading Error" style="width:150px;"/>
