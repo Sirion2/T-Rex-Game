@@ -4,16 +4,16 @@ Un Juego T-Rex hecho con Lua y Love.
 * *Para probar el juego sólo debes descargar el:* **T-Rex Game_release.zip** *y ejecutar el .exe*
 
 ## Herramientas Utilizadas.
-
-    <img src="capturas/Love2d_logo.webp" alt="Loading Error" style="width:250px;"/>
-
 - [x] **Love:** Framework para desarrollar juegos en 2D.
 [Website](https://love2d.org/)
 
-    <img src="capturas/Lua-logo.webp" alt="Loading Error" style="width:150px;"/>
+    <img src="capturas/Love2d_logo.webp" alt="Loading Error" style="width:250px;"/>
 
 - [x] **Lua:** Lenguaje de programación integrable, potente ligero.
 [Website](https://www.lua.org/)
+
+    <img src="capturas/Lua-logo.webp" alt="Loading Error" style="width:150px;"/>
+
 
 ## Librerias.
 1. **Hump:** una colección pequeña de herramientas para desarrollar juegos en Love. 
@@ -27,9 +27,7 @@ Un Juego T-Rex hecho con Lua y Love.
 
 ## Sprites:
 sprites obtenidas desde: [OpenGameArt.Org](https://opengameart.org/)
-
 1. **Nubes:** [Link](https://opengameart.org/content/2d-clouds) autor: *kitart360*
-
     <img src="capturas/CLOUD.webp" alt="Loading Error" style="width:150px;"/>
 
 2. **Tiles**: [Link](https://opengameart.org/content/free-platformer-game-tileset) autor: *pzUH*
@@ -67,18 +65,13 @@ sprites obtenidas desde: [OpenGameArt.Org](https://opengameart.org/)
     <img src="capturas/ScoreBoard.webp" alt="Loading Error" style="width:250px;"/>
 
 ## Gameplay.
-Un vistazo del juego.
+Hecha un vistazo a juego.
 
-**Iniciar Juego:**
+*Click para reproducir videos.*
 
-<video loop width="320" height="240" controls>
-  <source src="capturas/Gameplay.webm" type="video/webm">
-  loading Error
-</video>
+**Iniciar Juego video:**
+
+[![Video not found](capturas/Game.webp)](https://youtu.be/Rzu_LkTVIis?si=ekSg-vwn4uraWerF)
 
 **Tablero de Puntajes:**
-
-<video loop width="320" height="240" controls>
-  <source src="capturas/Score show.webm" type="video/webm">
-  loading Error
-</video>
+[![Video not found](capturas/Scoreboard.webp)](https://youtu.be/yYjhXXGqBRY?si=P29mGBrDFgSWyJpp)
