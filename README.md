@@ -28,7 +28,8 @@ Un Juego T-Rex hecho con Lua y Love.
 ## Sprites:
 sprites obtenidas desde: [OpenGameArt.Org](https://opengameart.org/)
 1. **Nubes:** [Link](https://opengameart.org/content/2d-clouds) autor: *kitart360*
-    <img src="capturas/CLOUD.webp" alt="Loading Error" style="width:150px;"/>
+
+    <img src="capturas/cloud.webp" alt="Loading Error" style="width:150px;"/>
 
 2. **Tiles**: [Link](https://opengameart.org/content/free-platformer-game-tileset) autor: *pzUH*
 
@@ -67,11 +68,6 @@ sprites obtenidas desde: [OpenGameArt.Org](https://opengameart.org/)
 ## Gameplay.
 Hecha un vistazo a juego.
 
-*Click para reproducir videos.*
+**Iniciar Juego video:** https://youtu.be/Rzu_LkTVIis?si=ekSg-vwn4uraWerF
 
-**Iniciar Juego video:**
-
-[![Video not found](capturas/Game.webp)](https://youtu.be/Rzu_LkTVIis?si=ekSg-vwn4uraWerF)
-
-**Tablero de Puntajes:**
-[![Video not found](capturas/Scoreboard.webp)](https://youtu.be/yYjhXXGqBRY?si=P29mGBrDFgSWyJpp)
+**Tablero de Puntajes:** https://youtu.be/yYjhXXGqBRY?si=P29mGBrDFgSWyJpp
