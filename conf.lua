@@ -5,7 +5,7 @@ function love.conf(t)
     t.window.title = "T-Rex Game"
     t.window.icon = "/sprites/gui/icon/icon.png"
     t.consoloe = false
-    t.window.vsync = 1                 
+    t.window.vsync = -1                 
     t.window.msaa = 1  
     t.gammacorrect = true  
     t.window.highdpi = true  

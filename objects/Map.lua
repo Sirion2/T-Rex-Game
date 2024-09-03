@@ -12,7 +12,6 @@ function Map:init()
     self.cloud = love.graphics.newImage("sprites/maps/cloud.png")
     self.cloudx = 0
     self.cloudSpeed = 245
-
 end
 
 function Map:update(dt)
