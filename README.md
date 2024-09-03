@@ -63,7 +63,7 @@ sprites obtenidas desde: [OpenGameArt.Org](https://opengameart.org/)
 
 3. **Tablero de Puntajes**:
     
-    <img src="capturas/ScoreBoard.webp" alt="Loading Error" style="width:250px;"/>
+    <img src="capturas/Scoreboard.webp" alt="Loading Error" style="width:250px;"/>
 
 ## Gameplay.
 Hecha un vistazo a juego.
